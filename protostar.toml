@@ -1,0 +1,5 @@
+[contracts]
+ERC721 = ["src"]
+
+[project]
+protostar-version = "0.14.0"
